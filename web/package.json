@@ -1,5 +1,5 @@
 {
-  "name": "@APPNAME/web",
+  "name": "@hop-dash/web",
   "private": true,
   "type": "module",
   "scripts": {
